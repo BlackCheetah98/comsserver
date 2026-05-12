@@ -10,7 +10,7 @@ app.use(express.json());
 
 // Basic route
 app.get('/', (req, res) => {
-  res.send('Hello from Express server 🚀');
+  res.send('Hello from Express servesfsfr 🚀');
 });
 
 // Start server
